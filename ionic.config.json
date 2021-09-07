@@ -1,0 +1,8 @@
+{
+  "name": "SocketApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "882802ef"
+}

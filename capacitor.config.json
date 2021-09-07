@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "SocketApp",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
